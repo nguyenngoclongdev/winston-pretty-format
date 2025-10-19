@@ -24,6 +24,7 @@
     },
     "cSpell.words": [
         "comver",
+        "logform",
         "nanospinner",
         "nargs",
         "Ngoc",
@@ -32,6 +33,7 @@
         "outdir",
         "outfile",
         "tsup",
+        "uninspectable",
         "yarnlockfile"
     ],
     "[json]": {
